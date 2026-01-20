@@ -1,11 +1,5 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=350&section=header&text=Manish%20Pareek&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:11998e&height=100&section=header&text=React%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:ffd200,100:f7971e&height=100&section=header&text=Full%20Stack%20Web%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn" />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:00c6ff&height=100&section=header&text=MERN%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=0:0f2027,100:203a43&height=250&section=header&text=Manish%20Pareek|React%20Developer|Full%20Stack%20Web%20Developer|MERN%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlign=left" />
 </p>
 
 ## 💼 About Me
